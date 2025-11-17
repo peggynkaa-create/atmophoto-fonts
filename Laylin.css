@@ -1,0 +1,8 @@
+﻿@font-face {
+  font-family: "Laylin";
+  src: url("https://cdn.jsdelivr.net/gh/peggynkaa-create/atmophoto-fonts/main/Laylin_-_Demo.woff") format("woff"),
+       url("https://cdn.jsdelivr.net/gh/peggynkaa-create/atmophoto-fonts/main/Laylin_-_Demo.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
